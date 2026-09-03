@@ -88,8 +88,6 @@ Currently building my professional certification portfolio in:
 
 `JavaScript` · `Node.js` · `React` · `SQL` · `Python` · `Cloud`
 
-> Certifications will be added here as they are completed.
-
 ---
 
 ## 📂 Featured Projects
