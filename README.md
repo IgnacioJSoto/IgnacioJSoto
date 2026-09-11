@@ -102,8 +102,6 @@ Technical training and certification practice in:
 - Problem Solving
 - Software Engineering
 
-> Verified certification links will be added as they are completed.
-
 ---
 
 ## 📂 Featured Projects
@@ -160,4 +158,3 @@ Upcoming projects will focus on:
 
 ---
 
-> Always learning, building, and improving.
