@@ -149,7 +149,7 @@ Upcoming projects will focus on:
 📍 Chile  
 📧 ignacios.j.soto@gmail.com  
 
-🔗 LinkedIn: Add your LinkedIn URL here  
+🔗 LinkedIn: https://www.linkedin.com/in/ignacio-javier-soto-ceballos-b17272436/
 💻 GitHub: [@IgnacioJSoto](https://github.com/IgnacioJSoto)
 
 ---
